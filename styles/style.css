@@ -33,10 +33,8 @@
   border-radius: 8px;
   cursor: pointer;
 }
-.signup-btn :hover{
-   background-color: brown;
-   transition: 0.10s  ;
-}
+ 
+
 .content {
     text-align: center;
     margin: 200px;
